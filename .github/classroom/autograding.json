@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Hello World Output Check",
+      "setup": "",
+      "run": "node index.js",
+      "input": "",
+      "output": "hello world",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    }
+  ]
+}
